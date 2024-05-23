@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iz/JuiKWuEPHrVKvuWI27An32QwLsUoyYZ93tfH7/YZ308FGWDZheMFu/MZr4vn69Bv47SBCqVxa8j4SDOUwhQ==",
+  "dgSpecHash": "La/Zz0oNRUEsXBVuBtbwH8P5+SsWvFRb2j5uynEafSbnedMZUB/UrT0VpCosFmdahLzPUeClwOOl06oyLjH+nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ScreanBotsCommon\\ScreanBotsCommon.csproj",
+  "projectFilePath": "C:\\Bots\\v\\ScreanBotsCommon\\ScreanBotsCommon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

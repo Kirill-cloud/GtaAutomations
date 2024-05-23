@@ -1,2 +1,0 @@
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\Egolds.csproj.AssemblyReference.cache
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\Egolds.csproj.CoreCompileInputs.cache

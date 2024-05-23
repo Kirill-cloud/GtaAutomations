@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WobeufMHxx5F6dMLCiixQW5BGMziF6wHVv02wISJ9o3BZwhq4GJ6SUGgCjKi99rupHZkx4RbNXs/IRqZtua1Sg==",
+  "dgSpecHash": "v5FPdqbKbwbU+fNz9klT+jHEiNepREByNH/1jEu7EeCdXkxDTejGV0cDjpp2kPXY4wx7MUxq1MM401rLjLKPpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\FerkOffCow\\JerkOffCow.csproj",
+  "projectFilePath": "C:\\Bots\\v\\FerkOffCow\\JerkOffCow.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

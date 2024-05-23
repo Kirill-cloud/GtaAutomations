@@ -1,8 +1,0 @@
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\EgoldsUI.csproj.AssemblyReference.cache
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\EgoldsUI.csproj.CoreCompileInputs.cache
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\bin\Debug\Egolds.dll
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\bin\Debug\Egolds.pdb
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\Egolds.dll
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\Egolds.pdb
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\yt_DesignUI.frmMain.resources
-C:\Users\Kirill\source\repos\FisingHelper\Egolds\obj\Debug\EgoldsUI.csproj.GenerateResource.cache

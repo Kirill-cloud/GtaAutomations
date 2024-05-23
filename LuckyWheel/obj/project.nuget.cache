@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+BUnmia/vMorqrzO2pUB7Ys8OQ9oDjJ8reSEKX9oCWJxTbnIFF8/zVlIvdyDQlf1xGtSwWHTH/FGbA7cBmGH2w==",
+  "dgSpecHash": "lWdEH1pcWTwowaMXmOQ1RjLVvMx1D4vITldzDjsgg1eogM/paLYYqaLnFUNB/Us4PO8ulSC09Zolw2klbgr5pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\LuckyWheel\\LuckyWheel.csproj",
+  "projectFilePath": "C:\\Bots\\v\\LuckyWheel\\LuckyWheel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

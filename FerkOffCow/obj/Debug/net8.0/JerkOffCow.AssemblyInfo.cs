@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JerkOffCow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e59fe518333ed4ab267caf4b3950cbbe11815a5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d511ea1b12704dbb3899ab2786754d6748cbfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("JerkOffCow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JerkOffCow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

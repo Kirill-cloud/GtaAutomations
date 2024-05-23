@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj": {}
+    "C:\\Bots\\v\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ScreanBotsCommon\\ScreanBotsCommon.csproj": {
+    "C:\\Bots\\v\\ScreanBotsCommon\\ScreanBotsCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ScreanBotsCommon\\ScreanBotsCommon.csproj",
+        "projectUniqueName": "C:\\Bots\\v\\ScreanBotsCommon\\ScreanBotsCommon.csproj",
         "projectName": "ScreanBotsCommon",
-        "projectPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ScreanBotsCommon\\ScreanBotsCommon.csproj",
+        "projectPath": "C:\\Bots\\v\\ScreanBotsCommon\\ScreanBotsCommon.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ScreanBotsCommon\\obj\\",
+        "outputPath": "C:\\Bots\\v\\ScreanBotsCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\WinApiTools.csproj": {
-                "projectPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\WinApiTools.csproj"
+              "C:\\Bots\\v\\WinApiTools\\WinApiTools.csproj": {
+                "projectPath": "C:\\Bots\\v\\WinApiTools\\WinApiTools.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj": {
+    "C:\\Bots\\v\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj",
+        "projectUniqueName": "C:\\Bots\\v\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj",
         "projectName": "WelcomeToTheClubBuddy",
-        "projectPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj",
+        "projectPath": "C:\\Bots\\v\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WelcomeToTheClubBuddy\\obj\\",
+        "outputPath": "C:\\Bots\\v\\WelcomeToTheClubBuddy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -118,11 +118,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ScreanBotsCommon\\ScreanBotsCommon.csproj": {
-                "projectPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ScreanBotsCommon\\ScreanBotsCommon.csproj"
+              "C:\\Bots\\v\\ScreanBotsCommon\\ScreanBotsCommon.csproj": {
+                "projectPath": "C:\\Bots\\v\\ScreanBotsCommon\\ScreanBotsCommon.csproj"
               },
-              "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\WinApiTools.csproj": {
-                "projectPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\WinApiTools.csproj"
+              "C:\\Bots\\v\\WinApiTools\\WinApiTools.csproj": {
+                "projectPath": "C:\\Bots\\v\\WinApiTools\\WinApiTools.csproj"
               }
             }
           }
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\WinApiTools.csproj": {
+    "C:\\Bots\\v\\WinApiTools\\WinApiTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\WinApiTools.csproj",
+        "projectUniqueName": "C:\\Bots\\v\\WinApiTools\\WinApiTools.csproj",
         "projectName": "WinApiTools",
-        "projectPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\WinApiTools.csproj",
+        "projectPath": "C:\\Bots\\v\\WinApiTools\\WinApiTools.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WinApiTools\\obj\\",
+        "outputPath": "C:\\Bots\\v\\WinApiTools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qoMWHZQm9Njvym9OJbAHgyPJdQUOKQHbQ9JBcsRybDHzwwOoo0eN6ZJNC8TTlTRlz/43UdAneU4vmh9qst8pPw==",
+  "dgSpecHash": "T3uyBHb1J0c+QhuYq8aFEzJxpCi1NbS1nFsrs+88Y8cObTMpcukqDdZNp5EOSj9m7JBNg3Uz3jIyhsrSZeBBqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj",
+  "projectFilePath": "C:\\Bots\\v\\WelcomeToTheClubBuddy\\WelcomeToTheClubBuddy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

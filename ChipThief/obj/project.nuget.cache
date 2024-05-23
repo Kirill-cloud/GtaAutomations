@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1A1fl51Hqnq0Boelfw22v0rtLnoeslmNM4kCJsMsWicsYDIUGET4s1ojS//JnoVFc1EKmik06Cl9KSnn9aP/Cg==",
+  "dgSpecHash": "lwecAw6mWasAr1nTC0UDPGdIuBGwN7CF3LVWrlmqxOhmDkRFU6QhXQil/z7u4xbSE47is4++JjHrWJQngbpQTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\FisingHelper\\ChipThief\\ChipThief.csproj",
+  "projectFilePath": "C:\\Bots\\v\\ChipThief\\ChipThief.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
