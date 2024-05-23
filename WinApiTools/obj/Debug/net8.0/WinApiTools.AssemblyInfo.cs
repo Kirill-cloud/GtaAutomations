@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinApiTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d511ea1b12704dbb3899ab2786754d6748cbfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f04fbd0d014a7cc3002a0e349a16b24b39a9753")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinApiTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinApiTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
