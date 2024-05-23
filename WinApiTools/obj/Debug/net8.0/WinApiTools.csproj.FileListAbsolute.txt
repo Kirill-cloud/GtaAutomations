@@ -10,15 +10,3 @@ C:\Users\Kirill\source\repos\FisingHelper\WinApiTools\obj\Debug\net8.0\WinApiToo
 C:\Users\Kirill\source\repos\FisingHelper\WinApiTools\obj\Debug\net8.0\refint\WinApiTools.dll
 C:\Users\Kirill\source\repos\FisingHelper\WinApiTools\obj\Debug\net8.0\WinApiTools.pdb
 C:\Users\Kirill\source\repos\FisingHelper\WinApiTools\obj\Debug\net8.0\ref\WinApiTools.dll
-C:\Bots\v\WinApiTools\bin\Debug\net8.0\WinApiTools.deps.json
-C:\Bots\v\WinApiTools\bin\Debug\net8.0\WinApiTools.dll
-C:\Bots\v\WinApiTools\bin\Debug\net8.0\WinApiTools.pdb
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\WinApiTools.GeneratedMSBuildEditorConfig.editorconfig
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\WinApiTools.AssemblyInfoInputs.cache
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\WinApiTools.AssemblyInfo.cs
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\WinApiTools.csproj.CoreCompileInputs.cache
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\WinApiTools.sourcelink.json
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\WinApiTools.dll
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\refint\WinApiTools.dll
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\WinApiTools.pdb
-C:\Bots\v\WinApiTools\obj\Debug\net8.0\ref\WinApiTools.dll
