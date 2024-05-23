@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChipThief")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d511ea1b12704dbb3899ab2786754d6748cbfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7719d30690cab0879b2ca9103542f447313dee6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChipThief")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChipThief")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
