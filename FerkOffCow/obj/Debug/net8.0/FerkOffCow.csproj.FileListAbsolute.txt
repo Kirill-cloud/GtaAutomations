@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\bin\Debug\net8.0\FerkOffCow.exe
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\bin\Debug\net8.0\FerkOffCow.deps.json
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\bin\Debug\net8.0\FerkOffCow.runtimeconfig.json
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\bin\Debug\net8.0\FerkOffCow.dll
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\bin\Debug\net8.0\FerkOffCow.pdb
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.AssemblyInfoInputs.cache
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.AssemblyInfo.cs
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.sourcelink.json
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.dll
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\refint\FerkOffCow.dll
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.pdb
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\FerkOffCow.genruntimeconfig.cache
+C:\Users\Kirill\source\repos\FisingHelper\FerkOffCow\obj\Debug\net8.0\ref\FerkOffCow.dll
