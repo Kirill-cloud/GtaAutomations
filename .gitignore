@@ -2,8 +2,6 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
-/yt_DesignUI/obj
-/yt_DesignUI/bin/Debug
 /ChipThief/obj
 /ChipThief/bin/Debug
 /FerkOffCow/obj
@@ -17,3 +15,9 @@
 /WinApiTools/obj
 /WinApiTools/bin/Debug
 /.vs
+/LuckyWheel/obj/Debug/net8.0/LuckyWheel.AssemblyInfo.cs
+/LuckyWheel/obj/Debug/net8.0/LuckyWheel.AssemblyInfoInputs.cache
+/ChipThief/obj/Debug/net8.0/ChipThief.AssemblyInfo.cs
+/ChipThief/obj/Debug/net8.0/ChipThief.AssemblyInfoInputs.cache
+/FerkOffCow/obj/Debug/net8.0/JerkOffCow.AssemblyInfo.cs
+/FerkOffCow/obj/Debug/net8.0/JerkOffCow.AssemblyInfoInputs.cache
