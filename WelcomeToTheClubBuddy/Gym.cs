@@ -34,20 +34,10 @@ namespace WelcomeToTheClubBuddy
                 }
                 else
                 {
-                    for (int i = screenCenterX - maxR; i < screenCenterX; i += 2)
-                    {
-                        var currentEdgeColor = ColorPicker.GetPixelColor(i, screenCenterY);
-
-                        if (IsEdgePixel(currentEdgeColor) && !edgeFinded)
-                        {
-                            edgeFinded = true;
-                            greenX = i;
-                            whiteX = greenX + 5;
-                            break;
-                        }
-                    }
+                    var x = Measurement.MeasureTime(() => { FindEdge(ref greenX, ref whiteX, ref edgeFinded); });
+                    await Console.Out.WriteLineAsync($"{x}");
                 }
-                Console.Clear();
+                //Console.Clear();
 
                 await Console.Out.WriteLineAsync(ActiveWindow.GetActiveWindowTitle());
                 Console.Out.WriteLineAsync($"Edge finded: {edgeFinded}");
@@ -57,6 +47,22 @@ namespace WelcomeToTheClubBuddy
                 {
                     lastE = DateTime.Now.AddMilliseconds(2000);
                     await RichKeySend.PressKey(VirtualKeyCodes.E);
+                }
+            }
+        }
+
+        private void FindEdge(ref int greenX, ref int whiteX, ref bool edgeFinded)
+        {
+            for (int i = screenCenterX - maxR; i < screenCenterX; i += 2)
+            {
+                var currentEdgeColor = ColorPicker.GetPixelColor(i, screenCenterY);
+
+                if (IsEdgePixel(currentEdgeColor) && !edgeFinded)
+                {
+                    edgeFinded = true;
+                    greenX = i;
+                    whiteX = greenX + 5;
+                    break;
                 }
             }
         }

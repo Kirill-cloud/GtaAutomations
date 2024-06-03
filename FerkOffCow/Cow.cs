@@ -90,7 +90,7 @@ namespace JerkOffCow
                 }
 
                 await Task.Delay(60);
-                KeyboardSend.PressKey(VirtualKeyCodes.E);
+                await RichKeySend.PressKey(VirtualKeyCodes.E);
                 Console.Clear();
             }
         }
@@ -104,10 +104,10 @@ namespace JerkOffCow
             if (currenntKeyAColor == aKey.Color)
             {
                 await Task.Delay(200);
-                KeyboardSend.PressKey(VirtualKeyCodes.A);
+                await RichKeySend.PressKey(VirtualKeyCodes.A);
             }
             await Task.Delay(200);
-            KeyboardSend.PressKey(VirtualKeyCodes.D);
+            await RichKeySend.PressKey(VirtualKeyCodes.D);
         }
 
         void ReadKeyScreanPoints()

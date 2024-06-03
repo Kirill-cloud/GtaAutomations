@@ -23,9 +23,10 @@ namespace ScreanBotsCommon
         {
             get
             {
-                var window = ActiveWindow.GetActiveWindowTitle()?.Trim();
+                var window = (ActiveWindow.GetActiveWindowTitle() ?? "").Trim();
                 Console.WriteLine($"{window}");
-                return window == RageName;
+
+                return window.StartsWith("R") && window.EndsWith("r");
             }
         }
 

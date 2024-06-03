@@ -32,6 +32,7 @@ namespace WinApiTools
         VK_LBUTTON = 0x01,
         VK_RBUTTON = 0x02,
         VK_SPACE = 0x20,
+        NUM_1 = 0x31,
         A = 0x41,
         D = 0x44,
         E = 0x45,
