@@ -28,7 +28,6 @@ jobs:
           ls
           mkdir release/ChipThief
           echo "$PWD"
-          cd ..
           cp ChipThief/* /release/ChipThief
           ls
       - name: Zip
