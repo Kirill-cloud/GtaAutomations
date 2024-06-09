@@ -24,8 +24,10 @@ jobs:
         run: ls
       - name: Files
         run : |
+          mkdir release
           ls
-          cp ChipThief/ /release/ChipThief
+          mkdir release/ChipThief
+          cp ChipThief/* /release/ChipThief
           ls
       - name: Zip
         uses: vimtor/action-zip@v1.2
