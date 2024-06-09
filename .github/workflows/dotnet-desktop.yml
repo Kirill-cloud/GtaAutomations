@@ -23,7 +23,7 @@ jobs:
       - name: LS
         run: ls
       - name: Zip
-      - uses: vimtor/action-zip@v1.2
+        uses: vimtor/action-zip@v1.2
         with:
           files: dist/ manifest.json
           recursive: false
