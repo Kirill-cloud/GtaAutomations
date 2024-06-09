@@ -23,7 +23,11 @@ jobs:
       - name: LS
         run: ls
       - name: Zip
-        
+      - uses: vimtor/action-zip@v1.2
+        with:
+          files: dist/ manifest.json
+          recursive: false
+          dest: result.zip
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.TOKEN }}"
@@ -32,4 +36,5 @@ jobs:
           title: "Development Build"
           files: | 
             ./ChipThief/bin/Debug/net8.0/*
+            result.zip
           
