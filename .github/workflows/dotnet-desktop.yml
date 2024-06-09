@@ -25,10 +25,21 @@ jobs:
       - name: Files
         run : |
           mkdir release;
+          
           mkdir release/ChipThief;
-          pwd;
           cp ChipThief\bin\Debug\net8.0\* release/ChipThief/;
           
+          mkdir release/LuckyWheel;
+          cp LuckyWheel\bin\Debug\net8.0\* release/LuckyWheel/;
+
+          mkdir release/FerkOffCow;
+          cp FerkOffCow\bin\Debug\net8.0\* release/FerkOffCow/;
+
+          mkdir release/WelcomeToTheClubBuddy;
+          cp WelcomeToTheClubBuddy\bin\Debug\net8.0\* release/WelcomeToTheClubBuddy/;
+
+          mkdir release/YoungMinecrafter;
+          cp YoungMinecrafter\bin\Debug\net8.0\* release/YoungMinecrafter/;
           
       - name: Zip
         uses: vimtor/action-zip@v1.2
