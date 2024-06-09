@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipThief", "ChipThief\Chip
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuckyWheel", "LuckyWheel\LuckyWheel.csproj", "{D050A297-E187-4043-A741-CD4D10E11503}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeToTheClubBuddy", "WelcomeToTheClubBuddy\WelcomeToTheClubBuddy.csproj", "{960D6B50-6508-4B6F-A6E4-8AD13D643E49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeToTheClubBuddy", "WelcomeToTheClubBuddy\WelcomeToTheClubBuddy.csproj", "{960D6B50-6508-4B6F-A6E4-8AD13D643E49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoungMinecrafter", "YoungMinecrafter\YoungMinecrafter.csproj", "{ED9D5237-DAFE-44C5-A52C-DCC0BC0DD560}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{960D6B50-6508-4B6F-A6E4-8AD13D643E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{960D6B50-6508-4B6F-A6E4-8AD13D643E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{960D6B50-6508-4B6F-A6E4-8AD13D643E49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9D5237-DAFE-44C5-A52C-DCC0BC0DD560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9D5237-DAFE-44C5-A52C-DCC0BC0DD560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9D5237-DAFE-44C5-A52C-DCC0BC0DD560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9D5237-DAFE-44C5-A52C-DCC0BC0DD560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
