@@ -20,13 +20,14 @@ jobs:
         run: dotnet restore
       - name: Build
         run: dotnet build
-      - name: LS
-        run: ls
       - name: Files
         run : |
+          echo "$PWD"
           mkdir release
+          echo "$PWD"
           ls
           mkdir release/ChipThief
+          echo "$PWD"
           cd ..
           cp ChipThief/* /release/ChipThief
           ls
