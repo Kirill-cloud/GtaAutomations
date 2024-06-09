@@ -20,7 +20,8 @@ jobs:
         run: dotnet restore
       - name: Build
         run: dotnet build
-             echo "assf"
+      - name: LS
+        run: ls
 
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
