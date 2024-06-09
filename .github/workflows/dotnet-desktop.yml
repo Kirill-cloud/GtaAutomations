@@ -52,7 +52,7 @@ jobs:
           repo_token: "${{ secrets.TOKEN }}"
           
           prerelease: true
-          title: "${{ date }}Release"
+          title: "${{ github.event.repository.updated_at }}Release"
           files: |
             result.zip
           
