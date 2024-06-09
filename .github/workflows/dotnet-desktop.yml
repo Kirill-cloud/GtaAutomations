@@ -52,7 +52,7 @@ jobs:
           repo_token: "${{ secrets.TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: true
-          title: "Development Build"
+          title: "$(date '+%Y-%m-%d %H:%M:%S')-Development Build"
           files: |
             result.zip
           
