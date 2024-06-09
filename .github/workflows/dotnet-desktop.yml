@@ -36,10 +36,10 @@ jobs:
           cp FerkOffCow\bin\Debug\net8.0\* release/FerkOffCow/;
 
           mkdir release/WelcomeToTheClubBuddy;
-          cp WelcomeToTheClubBuddy\bin\Debug\net8.0\* release/WelcomeToTheClubBuddy/;
+          cp WelcomeToTheClubBuddy\bin\Debug\net8.0-windows\* release/WelcomeToTheClubBuddy/;
 
           mkdir release/YoungMinecrafter;
-          cp YoungMinecrafter\bin\Debug\net8.0\* release/YoungMinecrafter/;
+          cp YoungMinecrafter\bin\Debug\net8.0-windows\* release/YoungMinecrafter/;
           
       - name: Zip
         uses: vimtor/action-zip@v1.2
