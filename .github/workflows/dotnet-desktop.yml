@@ -27,15 +27,7 @@ jobs:
           mkdir release;
           mkdir release/ChipThief;
           pwd;
-          cp ChipThief/* release/ChipThief/;
-          echo "1"
-          ls ChipThief
-          echo "2"
-          ls ChipThief/bin
-          echo "3"
-          ls ChipThief/bin/Debug
-          echo "4"
-          ls ChipThief/bin/Debug/net8.0
+          cp ChipThief\bin\Debug\net8.0\* release/ChipThief/;
           
           
       - name: Zip
