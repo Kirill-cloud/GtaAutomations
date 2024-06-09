@@ -8,7 +8,7 @@ on:
 jobs:
   pre-release:
     name: "Pre Release"
-    runs-on: "ubuntu-latest"
+    runs-on: "windows-latest"
     
     steps:
       - uses: actions/checkout@v4
@@ -20,16 +20,16 @@ jobs:
         run: dotnet restore
       - name: Build
         run: dotnet build
+
+        
       - name: Files
         run : |
-          echo "$PWD"
-          mkdir release
-          echo "$PWD"
-          ls
-          mkdir release/ChipThief
-          echo "$PWD"
-          cp ChipThief/* /release/ChipThief
-          ls
+          mkdir release;
+          mkdir release/ChipThief;
+          pwd;
+          cp ChipThief/* release/ChipThief/;
+
+          
       - name: Zip
         uses: vimtor/action-zip@v1.2
         with:
