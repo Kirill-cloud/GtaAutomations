@@ -27,19 +27,19 @@ jobs:
           mkdir release;
           
           mkdir release/ChipThief;
-          cp ChipThief\bin\Debug\net8.0\* release/ChipThief/;
+          cp -r ChipThief\bin\Debug\net8.0\* release/ChipThief/;
           
           mkdir release/LuckyWheel;
-          cp LuckyWheel\bin\Debug\net8.0\* release/LuckyWheel/;
+          cp -r LuckyWheel\bin\Debug\net8.0\* release/LuckyWheel/;
 
           mkdir release/FerkOffCow;
-          cp FerkOffCow\bin\Debug\net8.0\* release/FerkOffCow/;
+          cp -r FerkOffCow\bin\Debug\net8.0\* release/FerkOffCow/;
 
           mkdir release/WelcomeToTheClubBuddy;
-          cp WelcomeToTheClubBuddy\bin\Debug\net8.0-windows\* release/WelcomeToTheClubBuddy/;
+          cp -r WelcomeToTheClubBuddy\bin\Debug\net8.0-windows\* release/WelcomeToTheClubBuddy/;
 
           mkdir release/YoungMinecrafter;
-          cp YoungMinecrafter\bin\Debug\net8.0-windows\* release/YoungMinecrafter/;
+          cp -r YoungMinecrafter\bin\Debug\net8.0-windows\* release/YoungMinecrafter/;
           
       - name: Zip
         uses: vimtor/action-zip@v1.2
