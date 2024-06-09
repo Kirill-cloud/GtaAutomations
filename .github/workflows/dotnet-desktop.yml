@@ -26,6 +26,7 @@ jobs:
         run : |
           ls
           cp ChipThief/ /release/ChipThief
+          ls
       - name: Zip
         uses: vimtor/action-zip@v1.2
         with:
