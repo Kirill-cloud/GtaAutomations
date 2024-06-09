@@ -27,6 +27,7 @@ jobs:
           mkdir release
           ls
           mkdir release/ChipThief
+          cd ..
           cp ChipThief/* /release/ChipThief
           ls
       - name: Zip
