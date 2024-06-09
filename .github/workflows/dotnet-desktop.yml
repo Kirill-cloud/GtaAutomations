@@ -50,9 +50,9 @@ jobs:
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.TOKEN }}"
-          automatic_release_tag: "latest"
+          
           prerelease: true
-          title: "$(date '+%Y-%m-%d %H:%M:%S')-Development Build"
+          title: "${{ date }}Release"
           files: |
             result.zip
           
